@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mc128B/hgVke4sF1rJW6/ohIF7IvFyzBnskeNo/xWkA=",
+  "Source": "firstRagWebApi",
+  "BasePath": "_content/firstRagWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
