@@ -22,8 +22,6 @@ namespace firstRagWebApi.Services
         {
 
             // Retrieve the OpenAI endpoint from environment variables
-            //var endpoint = "https://m-ahtasham-workragproje-resource.cognitiveservices.azure.com/openai/deployments/o4-mini/chat/completions?api-version=2025-01-01-preview";
-            //var key = "8yVU3yrBQfXfCpg3EEjCCtYAwDirXybBpUWKMrbv9cL1AksBhGyTJQQJ99BKACHYHv6XJ3w3AAAAACOGYBAa";
             if (string.IsNullOrEmpty(endpoint))
             {
                 Console.WriteLine("Please set the AZURE_OPENAI_ENDPOINT environment variable.");
